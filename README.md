@@ -1,6 +1,6 @@
 # Michelangelo Romero Chisco
 
-Building open ternary language models from Bogotá, Colombia 🇨🇴
+Building open ternary language models from Bogotá, Colombia
 
 ---
 
